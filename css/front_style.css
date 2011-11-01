@@ -1,0 +1,40 @@
+@CHARSET "UTF-8";
+
+.taller_programado{
+	margin:5px 10px 10px 0;
+	display:block;
+	border-bottom:2px solid #DDD;
+		
+}
+
+.taller_programado h1{
+	font-size:34px;
+	margin:3px;
+	
+	
+			
+}
+
+.taller_programado h1 a{
+	text-decoration:none;
+	color:#0E4367;
+	
+		
+}
+.taller_programado h1 a:hover{
+	text-decoration:none;
+	text-decoration:underline;
+	}
+
+.taller_programado p{
+	margin:0;
+	margin-left:10px;
+	background:none;
+	padding:2px;
+	color:#333;	
+	font-size:16px;
+}
+
+.taller_programado .info{
+	margin-top:10px;
+	}
